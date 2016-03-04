@@ -1,4 +1,4 @@
-Cooking Classes for Datatype Generic Programming
+Cooking Classes With Datatype Generic Programming
 ================================================
 
 ```haskell
